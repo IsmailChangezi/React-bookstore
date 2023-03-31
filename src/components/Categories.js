@@ -1,5 +1,9 @@
 import React from 'react';
 
 export default function Categories() {
-  return <div>This is check</div>;
+  return (
+    <div>
+      <button type="submit">Check Status</button>
+    </div>
+  );
 }
