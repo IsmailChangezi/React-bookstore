@@ -1,6 +1,8 @@
+
 <a name="readme-top"></a>
 
 <div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
@@ -8,7 +10,7 @@
 
 </div>
 
-
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -34,20 +36,19 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Book Store]
+# 📖 [Math-magicians] <a name="about-project"></a>
 
+>
 
-
-> [Book Store] is an app which let's the users keep track of their favourite books.
+**[ Math magicians]**  is a calculator app which offers the user the functionality of a modern calculator. It also shows many encouriging quotes from an API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- Major languages: html, javascript, CSS
-- Frameworks: React.js
-- Technologies used: Git, Github, Git flow, VS code editor, Webpack, jest.
 ### Tech Stack <a name="tech-stack"></a>
 
-
+> React JS for the front end.
+> Linters for quality assurance
+> Ninja Api for quotes
 
 <details>
   <summary>Client</summary>
@@ -72,44 +73,79 @@
 
 <!-- Features -->
 
+### Key Features <a name="key-features"></a>
+
+
+- **[Interactive UI]** 
+1. This page is built on the methodology of SPA and supports different types of devices
+- **[Encouriging quotes]** 
+1. This page let's the gain knowledge from different intellectuals around the world.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+>
 
-
-- [Live Demo Link]()
+- [Live Demo Link](https://math-magicians-gold.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-1. In the console run npm install.
-2. Then run npm start.
 
 
 To get a local copy up and running, follow these steps.
 
+- Clone the project using **git clone**
+
+- Run **npm install** to install the project dependencies.
+
+- Run **npm start** to start the development server.
 ### Prerequisites
 
 In order to run this project you need:
- The basic understanding of HTML,CSS, JS
+
+- Basic JS
+
+- Basic React
+
+- Familiarity with Package.json
+### Setup
+
+Clone this repository to your desired folder:
+
+ - cd my-folder
+ - git clone git@github.com:myaccount/my-project.git
 
 
 ### Install
 
 Install this project with:
+- cd my-project
+- npm install
 
-npm install
-npm start
 
+### Usage
 
+To run the project, execute the following command:
+
+- npm install  
 ### Run tests
 
 To run tests, run the following command:
-npm test
+- npm test
+
+### Deployment
+
+You can deploy this project using 
+
+Github Pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,15 +153,17 @@ npm test
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Author1**
-Ismail
-- GitHub: [@IsmailChangezi](https://github.com/IsmailChangezi)
 
+- GitHub: [@IsmailChangezi](https://github.com/IsmailChangezi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismail-changezi-34a138215/)
 
+<!-- FUTURE FEATURES -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[new_feature_1]** The page will support tests for quality assurance and better UI.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,14 +182,20 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank all my fellow mentors and collaborators which helped me a lot during the program.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 📝 License <a name="license"></a>
 
