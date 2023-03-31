@@ -8,6 +8,7 @@ export default function Book({ title, author }) {
       <section>
         <h1>{author}</h1>
         <h2>{title}</h2>
+        <button type="submit">Remove Book</button>
       </section>
       <BookForm />
     </>
