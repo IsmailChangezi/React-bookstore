@@ -13,6 +13,9 @@ export default function Navigation() {
             <Link to="/">Home</Link>
           </li>
           <li>
+            <Link to="/BookForm">Add Book</Link>
+          </li>
+          <li>
             <Link to="/Categories">Categories</Link>
           </li>
         </ul>
