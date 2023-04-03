@@ -1,6 +1,6 @@
-import { combineReducers, configureStore } from "@reduxjs/toolkit";
-import booksSlice, { addBook } from "./books/booksSlice";
-import categoriesSlice from "./categories/categoriesSlice";
+import { combineReducers, configureStore } from '@reduxjs/toolkit';
+import booksSlice, { addBook } from './books/booksSlice';
+import categoriesSlice from './categories/categoriesSlice';
 
 const rootReducers = combineReducers({
   booksReducers: booksSlice,
@@ -11,4 +11,4 @@ const store = configureStore({
   reducer: rootReducers,
 });
 
-store.dispatch(addBook({ id: 1, item: "new boooks" }));
+store.dispatch(addBook({ id: 1, item: 'new boooks' }));
