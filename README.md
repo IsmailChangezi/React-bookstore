@@ -88,12 +88,12 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->
+> Not yet available 
 
-- [Live Demo Link](https://math-magicians-gold.vercel.app/)
+<!-- - [Live Demo Link](https://math-magicians-gold.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
