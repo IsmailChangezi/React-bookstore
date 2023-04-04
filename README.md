@@ -36,11 +36,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math-magicians] <a name="about-project"></a>
+# 📖 [Book Store] <a name="about-project"></a>
 
 >
 
-**[ Math magicians]**  is a calculator app which offers the user the functionality of a modern calculator. It also shows many encouriging quotes from an API.
+**[Book Store]** is an app that renders a user's favourite books and grants the user with many useful functionalities, such as the user being able to browse through their favourite categories of books, Continue the book from where they left off.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,7 +48,7 @@
 
 > React JS for the front end.
 > Linters for quality assurance
-> Ninja Api for quotes
+> Redux and Redux toolkit 
 
 <details>
   <summary>Client</summary>
@@ -88,12 +88,12 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->
+> Not yet available 
 
-- [Live Demo Link](https://math-magicians-gold.vercel.app/)
+<!-- - [Live Demo Link](https://math-magicians-gold.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
