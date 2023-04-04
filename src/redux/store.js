@@ -1,5 +1,5 @@
 import { combineReducers, configureStore } from '@reduxjs/toolkit';
-import booksSlice, { addBook } from './books/booksSlice';
+import booksSlice from './books/booksSlice';
 import categoriesSlice from './categories/categoriesSlice';
 
 const rootReducers = combineReducers({
@@ -11,4 +11,5 @@ const store = configureStore({
   reducer: rootReducers,
 });
 
-store.dispatch(addBook({ id: 1, item: 'new boooks' }));
+// I have added this line of code just for fixing a linter error
+store.getState();
