@@ -24,14 +24,16 @@ const booksSlice = createSlice({
       },
     ],
   },
-  /* eslint no-param-reassign: ["error", { "props": false }] */
   reducers: {
     addBook: (state, action) => {
-      state.items.push(action.payload);
+      const newItem = action.payload;
+      const updatedItems = [...state.items, newItem];
+      return { ...state, items: updatedItems };
     },
     removeBook: (state, action) => {
       const itemId = action.payload;
-      state.items = state.items.filter((item) => item.id !== itemId);
+      const updatedItems = state.items.filter((item) => item.id !== itemId);
+      return { ...state, items: updatedItems };
     },
   },
 });
