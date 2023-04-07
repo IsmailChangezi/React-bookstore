@@ -181,8 +181,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-
+- You are free to show your support on Github and linkedin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
