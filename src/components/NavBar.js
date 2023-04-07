@@ -1,5 +1,5 @@
 import { CgProfile } from 'react-icons/cg';
-import NavItem from './NavItems.js';
+import NavItem from './NavItems';
 
 export default function NavBar() {
   return (
