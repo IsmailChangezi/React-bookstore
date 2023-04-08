@@ -278,3 +278,9 @@ body {
   text-align: center;
   color: var(--white-two);
 }
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
