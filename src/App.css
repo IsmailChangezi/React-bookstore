@@ -278,3 +278,8 @@ body {
   text-align: center;
   color: var(--white-two);
 }
+
+.form {
+  display: flex;
+  justify-content: flex-end;
+}
