@@ -26,7 +26,7 @@ export default function AddBook() {
   return (
     <div className="form-container">
       <h2>ADD NEW BOOK</h2>
-      <form onSubmit={handelformSubmit}>
+      <form onSubmit={handelformSubmit} className="form">
         <input
           className="inp-title"
           type="text"
