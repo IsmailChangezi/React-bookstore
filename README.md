@@ -90,7 +90,7 @@
 
 > This is the link to the live version of the app. 
 
-<!-- - [Live Demo Link](https://react-redux-bookstore.vercel.app/)
+[Live Demo Link](https://react-redux-bookstore.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  -->
